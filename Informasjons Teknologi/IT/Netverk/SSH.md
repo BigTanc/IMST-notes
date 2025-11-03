@@ -18,3 +18,5 @@ You can create a key pair with | ssh-keygen |. this gives you
 - A **private key** (keep it secret)
 - A **public key** (put this on the remote server in ~/.ssh/authorized_keys`)
 Then you can log in without typing your password each time:
+
+bæss bæss bæss rt rt rt bakaene ruller inn bakaene maritn maritn martin alexander
